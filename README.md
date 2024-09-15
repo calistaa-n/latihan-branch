@@ -1,2 +1,5 @@
 # latihan-branch
-ingin menjadi kaya
+Sedang belajar branching di Github
+
+
+
