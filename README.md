@@ -1,2 +1,5 @@
 # latihan-branch
-Belajar git itu seru
+Sedang belajar branching di Github
+
+
+
